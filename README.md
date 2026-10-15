@@ -40,63 +40,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Sourcegraph](https://sourcegraph.com/)**  
-
-  Leading code search and intelligence platform with semantic search, Cody AI, and large-scale codebase understanding for enterprises.
-
-
-
-- **[GitHub Copilot / Copilot Chat](https://github.com/features/copilot)**  
-
-  AI coding assistant that leverages deep understanding of repositories for contextual code search, explanation, and generation inside the editor and PR workflows.
-
-
-
-- **[Tabnine Enterprise](https://www.tabnine.com/)**  
-
-  AI code completion and search platform with private model options and enterprise-grade codebase awareness.
-
-
-
-- **[Codeium](https://codeium.com/)**  
-
-  Fast AI coding assistant offering code search, generation, and chat across many IDEs with strong free and team tiers.
-
-
-
-- **[Amazon Q Developer](https://aws.amazon.com/q/developer/)**  
-
-  AWS AI coding companion with code search, explanation, and generation capabilities tuned for cloud and enterprise codebases.
-
-
-
-- **[Augment Code](https://www.augmentcode.com/)**  
-
-  AI coding platform focused on deep codebase context and high-quality search-augmented assistance for professional developers.
-
-
-
-- **[JetBrains AI](https://www.jetbrains.com/ai/)**  
-
-  AI features integrated into JetBrains IDEs, including intelligent code search, explanation, and completion powered by multiple model backends.
-
-
-
-- **[Blackbox AI](https://www.blackbox.ai/)**  
-
-  AI coding and search assistant popular for quick code discovery, generation, and developer productivity workflows.
-
-
-
-- **[Cursor](https://cursor.com/)**  
-
-  AI-first code editor with powerful codebase indexing, semantic search, and agentic features built around large context windows.
-
-
-
-- **[Windsurf (Codeium)](https://codeium.com/windsurf)**  
-
-  Agentic IDE experience from Codeium emphasizing deep codebase understanding and AI-driven navigation.
+| Product | Starting Price | Free Tier / Trial Limit | Key AI Search & Code Intelligence Capabilities |
+| :--- | :--- | :--- | :--- |
+| **[GitHub Copilot](https://github.com/features/copilot)** | $10/month (or $100/year for Individual) | **Free Forever Plan**: 2,000 code completions/month & 50 chat messages/month (or 30-day free trial on Copilot Pro) | In-editor & PR semantic search, Copilot Chat, repository-wide indexing, multi-model selection (Claude 3.5 Sonnet, GPT-4o) |
+| **[Amazon Q Developer](https://aws.amazon.com/q/developer/)** | $19/user/month (Pro tier) | **Free Forever Plan**: 50 agentic requests/month, 1,000 lines code transformation/month, unlimited inline suggestions | Enterprise repository and AWS architecture search, context-aware code generation, vulnerability scans, Java upgrades |
+| **[JetBrains AI](https://www.jetbrains.com/ai/)** | $10/month (or $100/year for Individual AI Pro; $20/user/month for orgs) | **Free Forever Plan**: Unlimited local model completions + 3 cloud AI credits per 30 days (or 30-day AI Pro free trial) | IDE-native AST semantic search, cross-file project indexing, multi-backend LLM routing, inline chat assistance |
+| **[Sourcegraph](https://sourcegraph.com/)** | $59/user/month (Cody Enterprise; minimum annual agreement) | **Free Trial**: 14-day Enterprise trial with full platform access upon request (standalone consumer free tier sunsetted) | Multi-repository scale semantic search, Zoekt-indexed trigram search, SCIP code intelligence graph, Cody AI assistant |
+| **[Cursor](https://cursor.com/)** | $20/month (Pro tier) | **Free Forever Plan** (Hobby): 2,000 completions/month & 50 slow premium requests/month (includes 14-day Pro trial on signup) | AI-native VS Code fork with repository embedding indexing, `@codebase` semantic context retrieval, Composer multi-file agent |
+| **[Codeium](https://codeium.com/)** | $12/user/month (Teams billed annually; $15/user/month billed monthly) | **Free Forever Plan** (Individual): Unlimited autocomplete suggestions, unlimited chat, in-IDE codebase search & indexing | Fast in-IDE vector search & indexing across 40+ IDEs, multi-line completions, enterprise context retrieval |
+| **[Windsurf](https://codeium.com/windsurf)** | $15/month (Pro tier) | **Free Forever Plan**: Unlimited fast Tab completions, inline edits, 25 prompt/flow credits/month, 1 app deploy/day | Cascade agentic AI flow, deep real-time codebase awareness, multi-file navigation, autonomous command execution |
+| **[Augment Code](https://www.augmentcode.com/)** | $20/month (Standard team base plan covering up to 50 seats with $20 usage credit included) | **Free Trial**: 30,000 trial credits upon signup with payment card (no permanent free tier) | Proprietary Context Engine indexing massive enterprise codebases, real-time semantic dependency search, high-speed completions |
+| **[Tabnine Enterprise](https://www.tabnine.com/)** | $12/user/month (Pro billed annually; $15/user/month billed monthly) | **Free Forever Plan** (Basic): Short inline completions only (rate-limited, no private codebase indexing; 90-day Enterprise trial available) | Private air-gapped code search, zero data-retention guarantees, personalized codebase models, enterprise compliance |
+| **[Blackbox AI](https://www.blackbox.ai/)** | $10/month (Pro tier) | **Free Forever Plan**: Basic code search, standard code completions, and basic chat with rate limits | High-speed multi-language code search, snippet retrieval from millions of public repositories, browser and IDE integration |
 
 
 
