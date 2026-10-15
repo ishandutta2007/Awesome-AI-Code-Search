@@ -5,7 +5,7 @@
 </p>
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Code-Search?style=social)](https://github.com/ishandutta2007/Awesome-AI-Code-Search/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Code-Search?style=social)](https://github.com/ishandutta2007/Awesome-AI-Code-Search/network/members)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-AI-Code-Search/pulls)
@@ -27,6 +27,8 @@ A comprehensive, battle-tested guide to modern developer tools for indexing, nav
 - [🐙 Open-Source GitHub Projects](#-open-source-github-projects)
 - [⚖️ Evaluation Matrix: How to Choose](#️-evaluation-matrix-how-to-choose)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Community](#-support--community)
+- [⭐ Star History](#--star-history)
 - [📜 Disclaimer & License](#-disclaimer--license)
 
 ---
@@ -144,6 +146,23 @@ Contributions to this directory are warmly encouraged! To suggest additions or u
 3. Ensure all links are active, descriptions are objective, and any SaaS entries include exact pricing and free tier/trial limits.
 4. For open-source tools, include the GitHub star badge (`style=social&color=white`) linking to its stargazers page.
 5. Open a Pull Request with a clear description of why the tool belongs in this list.
+
+---
+
+## 💖 Support & Community
+
+Thank you for exploring and utilizing the **Awesome AI Code Search** guide! If you find this curated collection helpful for your engineering workflows, codebase intelligence stack, or architectural evaluations:
+
+- ⭐ **Star this repository** to help other developers and teams discover it.
+- 🍴 **Fork the repo** to customize or contribute additions.
+- 📢 **Share** with colleagues and software communities.
+- ☕ **Buy me a coffee / Sponsor**: If you would like to support ongoing maintenance and curation of open-source resources, please consider sponsoring via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+##  Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-AI-Code-Search&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-AI-Code-Search&type=date&legend=top-left)
 
 ---
 
