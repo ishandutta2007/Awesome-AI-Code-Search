@@ -11,6 +11,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-AI-Code-Search/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-AI-Code-Search)
 [![Last Updated](https://img.shields.io/badge/Updated-October%202026-blue.svg)](https://github.com/ishandutta2007/Awesome-AI-Code-Search)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="tttps://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > **Curated directory of AI Code Search engines, Semantic Code Search platforms, Codebase RAG (Retrieval-Augmented Generation) systems, and Code Intelligence developer tools.**
 
