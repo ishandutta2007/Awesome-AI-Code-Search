@@ -6,7 +6,7 @@
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Code-Search?style=social)](https://github.com/ishandutta2007/Awesome-AI-Code-Search/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Code-Search?style=social)](https://github.com/ishandutta2007/Awesome-AI-Code-Search/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Code-Search?style=social)](https://github.com/ishandutta2007/Awesome-AI-Code-Search/network/members)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-AI-Code-Search/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-AI-Code-Search)
@@ -73,54 +73,54 @@ Commercial solutions providing turnkey multi-repository indexing, IDE extensions
 
 ## 🐙 Open-Source GitHub Projects
 
-Curated open-source projects for self-hosted semantic code search, local codebase RAG, AST parsing, and code intelligence engines. Sorted in descending order by GitHub stars:
+Curated open-source projects for self-hosted semantic code search, local codebase RAG, AST parsing, and code intelligence engines. Sorted in descending order by GitHub_Stars:
 
-- **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** [![GitHub stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social&color=white)](https://github.com/All-Hands-AI/OpenHands/stargazers)  
+- **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** [![GitHub_Stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social&color=white)](https://github.com/All-Hands-AI/OpenHands/stargazers)  
   Open-source platform for autonomous software development agents with deep codebase exploration, semantic search, file mapping, and code editing capabilities.
 
-- **[Cline](https://github.com/cline/cline)** [![GitHub stars](https://img.shields.io/github/stars/cline/cline?style=social&color=white)](https://github.com/cline/cline/stargazers)  
+- **[Cline](https://github.com/cline/cline)** [![GitHub_Stars](https://img.shields.io/github/stars/cline/cline?style=social&color=white)](https://github.com/cline/cline/stargazers)  
   Autonomous coding assistant in VS Code that employs semantic search, codebase mapping, and terminal tool execution to navigate and modify complex projects.
 
-- **[ripgrep](https://github.com/BurntSushi/ripgrep)** [![GitHub stars](https://img.shields.io/github/stars/BurntSushi/ripgrep?style=social&color=white)](https://github.com/BurntSushi/ripgrep/stargazers)  
+- **[ripgrep](https://github.com/BurntSushi/ripgrep)** [![GitHub_Stars](https://img.shields.io/github/stars/BurntSushi/ripgrep?style=social&color=white)](https://github.com/BurntSushi/ripgrep/stargazers)  
   Blazingly fast line-oriented search tool that serves as the high-performance search backend and context retrieval foundation for many modern AI coding and search tools.
 
-- **[Aider](https://github.com/Aider-AI/aider)** [![GitHub stars](https://img.shields.io/github/stars/Aider-AI/aider?style=social&color=white)](https://github.com/Aider-AI/aider/stargazers)  
+- **[Aider](https://github.com/Aider-AI/aider)** [![GitHub_Stars](https://img.shields.io/github/stars/Aider-AI/aider?style=social&color=white)](https://github.com/Aider-AI/aider/stargazers)  
   Terminal AI pair-programming tool that constructs a compact repository map with tree-sitter for precise, context-aware semantic search and multi-file code editing.
 
-- **[Khoj](https://github.com/khoj-ai/khoj)** [![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers)  
+- **[Khoj](https://github.com/khoj-ai/khoj)** [![GitHub_Stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers)  
   Open-source AI second brain and semantic search engine that indexes private codebases, markdown notes, and technical documentation for natural-language search.
 
-- **[Continue](https://github.com/continuedev/continue)** [![GitHub stars](https://img.shields.io/github/stars/continuedev/continue?style=social&color=white)](https://github.com/continuedev/continue/stargazers)  
+- **[Continue](https://github.com/continuedev/continue)** [![GitHub_Stars](https://img.shields.io/github/stars/continuedev/continue?style=social&color=white)](https://github.com/continuedev/continue/stargazers)  
   Leading open-source AI code assistant for VS Code and JetBrains, supporting full local codebase indexing, `@codebase` semantic context retrieval, and custom model endpoints.
 
-- **[Tabby](https://github.com/TabbyML/tabby)** [![GitHub stars](https://img.shields.io/github/stars/TabbyML/tabby?style=social&color=white)](https://github.com/TabbyML/tabby/stargazers)  
+- **[Tabby](https://github.com/TabbyML/tabby)** [![GitHub_Stars](https://img.shields.io/github/stars/TabbyML/tabby?style=social&color=white)](https://github.com/TabbyML/tabby/stargazers)  
   Self-hosted, open-source AI coding assistant providing native repository context indexing, semantic code search, and private LLM inference behind corporate firewalls.
 
-- **[Tree-sitter](https://github.com/tree-sitter/tree-sitter)** [![GitHub stars](https://img.shields.io/github/stars/tree-sitter/tree-sitter?style=social&color=white)](https://github.com/tree-sitter/tree-sitter/stargazers)  
+- **[Tree-sitter](https://github.com/tree-sitter/tree-sitter)** [![GitHub_Stars](https://img.shields.io/github/stars/tree-sitter/tree-sitter?style=social&color=white)](https://github.com/tree-sitter/tree-sitter/stargazers)  
   Foundational incremental parsing library providing the concrete syntax tree (CST) and abstract syntax tree (AST) substrate required for modern structural and semantic code intelligence.
 
-- **[Semgrep](https://github.com/semgrep/semgrep)** [![GitHub stars](https://img.shields.io/github/stars/semgrep/semgrep?style=social&color=white)](https://github.com/semgrep/semgrep/stargazers)  
+- **[Semgrep](https://github.com/semgrep/semgrep)** [![GitHub_Stars](https://img.shields.io/github/stars/semgrep/semgrep?style=social&color=white)](https://github.com/semgrep/semgrep/stargazers)  
   Fast, lightweight static analysis and pattern-matching tool that enables structural and semantic code search across large polyglot codebases.
 
-- **[ast-grep](https://github.com/ast-grep/ast-grep)** [![GitHub stars](https://img.shields.io/github/stars/ast-grep/ast-grep?style=social&color=white)](https://github.com/ast-grep/ast-grep/stargazers)  
+- **[ast-grep](https://github.com/ast-grep/ast-grep)** [![GitHub_Stars](https://img.shields.io/github/stars/ast-grep/ast-grep?style=social&color=white)](https://github.com/ast-grep/ast-grep/stargazers)  
   Ultra-fast CLI tool for code search and rewriting based on tree-sitter ASTs, matching code syntax structurally rather than relying on brittle regex patterns.
 
-- **[bloop](https://github.com/BloopAI/bloop)** [![GitHub stars](https://img.shields.io/github/stars/BloopAI/bloop?style=social&color=white)](https://github.com/BloopAI/bloop/stargazers)  
+- **[bloop](https://github.com/BloopAI/bloop)** [![GitHub_Stars](https://img.shields.io/github/stars/BloopAI/bloop?style=social&color=white)](https://github.com/BloopAI/bloop/stargazers)  
   Fast open-source AI-powered semantic code search engine written in Rust that indexes local and remote Git repositories for conversational natural-language queries.
 
-- **[Sweep](https://github.com/sweepai/sweep)** [![GitHub stars](https://img.shields.io/github/stars/sweepai/sweep?style=social&color=white)](https://github.com/sweepai/sweep/stargazers)  
+- **[Sweep](https://github.com/sweepai/sweep)** [![GitHub_Stars](https://img.shields.io/github/stars/sweepai/sweep?style=social&color=white)](https://github.com/sweepai/sweep/stargazers)  
   Open-source AI junior developer that turns bug reports and feature requests into pull requests using codebase embeddings, vector search, and AST-driven edits.
 
-- **[Hound](https://github.com/hound-search/hound)** [![GitHub stars](https://img.shields.io/github/stars/hound-search/hound?style=social&color=white)](https://github.com/hound-search/hound/stargazers)  
+- **[Hound](https://github.com/hound-search/hound)** [![GitHub_Stars](https://img.shields.io/github/stars/hound-search/hound?style=social&color=white)](https://github.com/hound-search/hound/stargazers)  
   Extremely fast multi-repository source code search tool powered by an indexed regular expression backend, originally built by Etsy.
 
-- **[OpenGrok](https://github.com/oracle/opengrok)** [![GitHub stars](https://img.shields.io/github/stars/oracle/opengrok?style=social&color=white)](https://github.com/oracle/opengrok/stargazers)  
+- **[OpenGrok](https://github.com/oracle/opengrok)** [![GitHub_Stars](https://img.shields.io/github/stars/oracle/opengrok?style=social&color=white)](https://github.com/oracle/opengrok/stargazers)  
   Battle-tested enterprise source code search, cross-reference, and code navigation engine designed for ultra-large multi-language software repositories.
 
-- **[Livegrep](https://github.com/livegrep/livegrep)** [![GitHub stars](https://img.shields.io/github/stars/livegrep/livegrep?style=social&color=white)](https://github.com/livegrep/livegrep/stargazers)  
+- **[Livegrep](https://github.com/livegrep/livegrep)** [![GitHub_Stars](https://img.shields.io/github/stars/livegrep/livegrep?style=social&color=white)](https://github.com/livegrep/livegrep/stargazers)  
   Real-time interactive code search engine designed to index and search millions of lines of code across Git repositories with sub-millisecond regex queries.
 
-- **[Zoekt](https://github.com/sourcegraph/zoekt)** [![GitHub stars](https://img.shields.io/github/stars/sourcegraph/zoekt?style=social&color=white)](https://github.com/sourcegraph/zoekt/stargazers)  
+- **[Zoekt](https://github.com/sourcegraph/zoekt)** [![GitHub_Stars](https://img.shields.io/github/stars/sourcegraph/zoekt?style=social&color=white)](https://github.com/sourcegraph/zoekt/stargazers)  
   Trigram-based indexed code search engine written in Go, acting as the high-throughput indexing and text-retrieval engine for Sourcegraph.
 
 ---
@@ -144,7 +144,7 @@ Contributions to this directory are warmly encouraged! To suggest additions or u
 1. Fork this repository: `https://github.com/ishandutta2007/Awesome-AI-Code-Search`.
 2. Add your tool under either the SaaS table or the Open-Source list.
 3. Ensure all links are active, descriptions are objective, and any SaaS entries include exact pricing and free tier/trial limits.
-4. For open-source tools, include the GitHub star badge (`style=social&color=white`) linking to its stargazers page.
+4. For open-source tools, include the GitHub Stars_Badge (`style=social&color=white`) linking to its stargazers page.
 5. Open a Pull Request with a clear description of why the tool belongs in this list.
 
 ---
