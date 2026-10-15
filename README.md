@@ -59,81 +59,55 @@ The sector is **moderately fragmented but rapidly concentrating**: while hypersc
 
 ## Open-Source GitHub Projects
 
-- **[bloop](https://github.com/BloopAI/bloop)**  
+Curated open-source projects for semantic code search, repository indexing, AST parsing, and codebase RAG, sorted in descending order by GitHub stars:
 
-  Fast, open-source AI-powered semantic code search engine that indexes repositories and answers natural-language queries about code.
+- **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** [![GitHub stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social&color=white)](https://github.com/All-Hands-AI/OpenHands/stargazers)  
+  Open-source platform for autonomous software development agents with deep codebase exploration, semantic search, file mapping, and code editing capabilities.
 
+- **[Cline](https://github.com/cline/cline)** [![GitHub stars](https://img.shields.io/github/stars/cline/cline?style=social&color=white)](https://github.com/cline/cline/stargazers)  
+  Autonomous coding assistant in VS Code that employs semantic search, codebase mapping, and terminal tool execution to navigate and modify complex projects.
 
+- **[ripgrep](https://github.com/BurntSushi/ripgrep)** [![GitHub stars](https://img.shields.io/github/stars/BurntSushi/ripgrep?style=social&color=white)](https://github.com/BurntSushi/ripgrep/stargazers)  
+  Blazingly fast line-oriented search tool that serves as the high-performance search backend and context retrieval foundation for many modern AI coding and search tools.
 
-- **[Sourcegraph (open core)](https://github.com/sourcegraph/sourcegraph)**  
+- **[Aider](https://github.com/Aider-AI/aider)** [![GitHub stars](https://img.shields.io/github/stars/Aider-AI/aider?style=social&color=white)](https://github.com/Aider-AI/aider/stargazers)  
+  Terminal AI pair-programming tool that constructs a compact repository map with tree-sitter for precise, context-aware semantic search and multi-file code editing.
 
-  Open-source code search and navigation platform that powers the commercial Sourcegraph product; self-hostable for private codebases.
+- **[Khoj](https://github.com/khoj-ai/khoj)** [![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers)  
+  Open-source AI second brain and semantic search engine that indexes private codebases, markdown notes, and technical documentation for natural-language search.
 
+- **[Continue](https://github.com/continuedev/continue)** [![GitHub stars](https://img.shields.io/github/stars/continuedev/continue?style=social&color=white)](https://github.com/continuedev/continue/stargazers)  
+  Leading open-source AI code assistant for VS Code and JetBrains, supporting full local codebase indexing, `@codebase` semantic context retrieval, and custom model endpoints.
 
+- **[Tabby](https://github.com/TabbyML/tabby)** [![GitHub stars](https://img.shields.io/github/stars/TabbyML/tabby?style=social&color=white)](https://github.com/TabbyML/tabby/stargazers)  
+  Self-hosted, open-source AI coding assistant providing native repository context indexing, semantic code search, and private LLM inference behind corporate firewalls.
 
-- **[Zoekt](https://github.com/sourcegraph/zoekt)**  
+- **[Tree-sitter](https://github.com/tree-sitter/tree-sitter)** [![GitHub stars](https://img.shields.io/github/stars/tree-sitter/tree-sitter?style=social&color=white)](https://github.com/tree-sitter/tree-sitter/stargazers)  
+  Foundational incremental parsing library providing the concrete syntax tree (CST) and abstract syntax tree (AST) substrate required for modern structural and semantic code intelligence.
 
-  Fast, open-source trigram-based code search engine used by Sourcegraph and other tools for large-scale code indexing.
+- **[Semgrep](https://github.com/semgrep/semgrep)** [![GitHub stars](https://img.shields.io/github/stars/semgrep/semgrep?style=social&color=white)](https://github.com/semgrep/semgrep/stargazers)  
+  Fast, lightweight static analysis and pattern-matching tool that enables structural and semantic code search across large polyglot codebases.
 
+- **[ast-grep](https://github.com/ast-grep/ast-grep)** [![GitHub stars](https://img.shields.io/github/stars/ast-grep/ast-grep?style=social&color=white)](https://github.com/ast-grep/ast-grep/stargazers)  
+  Ultra-fast CLI tool for code search and rewriting based on tree-sitter ASTs, matching code syntax structurally rather than relying on brittle regex patterns.
 
+- **[bloop](https://github.com/BloopAI/bloop)** [![GitHub stars](https://img.shields.io/github/stars/BloopAI/bloop?style=social&color=white)](https://github.com/BloopAI/bloop/stargazers)  
+  Fast open-source AI-powered semantic code search engine written in Rust that indexes local and remote Git repositories for conversational natural-language queries.
 
-- **[OpenGrok](https://github.com/oracle/opengrok)**  
+- **[Sweep](https://github.com/sweepai/sweep)** [![GitHub stars](https://img.shields.io/github/stars/sweepai/sweep?style=social&color=white)](https://github.com/sweepai/sweep/stargazers)  
+  Open-source AI junior developer that turns bug reports and feature requests into pull requests using codebase embeddings, vector search, and AST-driven edits.
 
-  Classic open-source source code search and cross-reference engine suitable for large multi-language repositories.
+- **[Hound](https://github.com/hound-search/hound)** [![GitHub stars](https://img.shields.io/github/stars/hound-search/hound?style=social&color=white)](https://github.com/hound-search/hound/stargazers)  
+  Extremely fast multi-repository source code search tool powered by an indexed regular expression backend, originally built by Etsy.
 
+- **[OpenGrok](https://github.com/oracle/opengrok)** [![GitHub stars](https://img.shields.io/github/stars/oracle/opengrok?style=social&color=white)](https://github.com/oracle/opengrok/stargazers)  
+  Battle-tested enterprise source code search, cross-reference, and code navigation engine designed for ultra-large multi-language software repositories.
 
+- **[Livegrep](https://github.com/livegrep/livegrep)** [![GitHub stars](https://img.shields.io/github/stars/livegrep/livegrep?style=social&color=white)](https://github.com/livegrep/livegrep/stargazers)  
+  Real-time interactive code search engine designed to index and search millions of lines of code across Git repositories with sub-millisecond regex queries.
 
-- **[Semantic code search with embeddings](https://github.com/search?q=semantic+code+search+embedding)**  
-
-  Community projects that combine vector embeddings with code chunking for natural-language code retrieval.
-
-
-
-- **[Local LLM + codebase RAG](https://github.com/search?q=codebase+rag+llm)**  
-
-  Open pipelines that index a repository and answer questions using local or self-hosted models.
-
-
-
-- **[Continue (codebase awareness)](https://github.com/continuedev/continue)**  
-
-  Open-source coding assistant with strong support for indexing and searching local codebases for context.
-
-
-
-- **[Aider (codebase map)](https://github.com/Aider-AI/aider)**  
-
-  Terminal pair-programming tool that builds a map of the codebase and uses it for precise, context-aware edits and search.
-
-
-
-- **[Tree-sitter + search tooling](https://github.com/tree-sitter/tree-sitter)**  
-
-  Foundational open-source parsing library widely used by code search and intelligence tools for accurate language understanding.
-
-
-
-- **[Documentation and self-hosted search guides](https://github.com/BloopAI/bloop)**  
-
-  Official docs and community resources for deploying open semantic code search engines.
-
-
-
-### Additional Strong Open-Source Options
-
-- Natural-language semantic search over repositories with **bloop**.
-
-- Self-hosting large-scale code search via **Sourcegraph** open core + **Zoekt**.
-
-- Combining local embeddings and RAG for private codebase Q&A.
-
-- Using open coding assistants (**Continue**, **Aider**) that leverage codebase maps for better context retrieval.
-
-- Accepting that commercial platforms (Sourcegraph, Cursor, GitHub Copilot, Codeium, Amazon Q, JetBrains AI, etc.) still lead in polish, multi-repo scale, and seamless IDE integration.
-
-
-
-**Frameworks for building custom systems**: Index repos with **bloop** or **Sourcegraph/Zoekt** → layer embeddings or LLM RAG for natural-language queries → surface results in the editor or CLI. Suitable for teams that need private, controllable code search. Many organizations still choose commercial AI code search for speed, support, and deep product integration.
+- **[Zoekt](https://github.com/sourcegraph/zoekt)** [![GitHub stars](https://img.shields.io/github/stars/sourcegraph/zoekt?style=social&color=white)](https://github.com/sourcegraph/zoekt/stargazers)  
+  Trigram-based indexed code search engine written in Go, acting as the high-throughput indexing and text-retrieval engine for Sourcegraph.
 
 
 
