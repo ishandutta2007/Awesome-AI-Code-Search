@@ -17,30 +17,30 @@ A comprehensive, battle-tested guide to modern developer tools for indexing, nav
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 
-- [Overview & Architecture Paradigms](#overview--architecture-paradigms)
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS / Hosted AI Code Search Platforms](#saas--hosted-ai-code-search-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [Evaluation Matrix: How to Choose](#evaluation-matrix-how-to-choose)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer & License](#disclaimer--license)
+- [🧠 Overview & Architecture Paradigms](#-overview--architecture-paradigms)
+- [📈 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS / Hosted AI Code Search Platforms](#-saas--hosted-ai-code-search-platforms)
+- [🐙 Open-Source GitHub Projects](#-open-source-github-projects)
+- [⚖️ Evaluation Matrix: How to Choose](#️-evaluation-matrix-how-to-choose)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [📜 Disclaimer & License](#-disclaimer--license)
 
 ---
 
-## Overview & Architecture Paradigms
+## 🧠 Overview & Architecture Paradigms
 
 Traditional code search relied purely on regex patterns and string matching (e.g., `grep`). Modern **AI Code Search** operates across four interconnected technological pillars:
 
-1. **Trigram & Lexical Indexing**: Ultra-fast literal and regular-expression searches across gigabytes of source code in milliseconds (e.g., *Zoekt*, *ripgrep*).
-2. **Structural & AST Parsing**: Abstract Syntax Tree queries that understand programming language grammar, symbol hierarchies, definitions, and references (e.g., *Tree-sitter*, *ast-grep*, *Semgrep*).
-3. **Dense Vector Embeddings & Codebase RAG**: Deep learning models converting code blocks and natural language into high-dimensional vector spaces for semantic similarity retrieval (e.g., *bloop*, *Khoj*, *Tabby*).
-4. **Agentic Context Engines**: Multi-step autonomous retrieval agents that generate dynamic repo maps, gather cross-file dependencies, and synthesize answers using frontier LLMs (e.g., *Cursor*, *Windsurf*, *OpenHands*, *Cline*, *Aider*).
+1. **⚡ Trigram & Lexical Indexing**: Ultra-fast literal and regular-expression searches across gigabytes of source code in milliseconds (e.g., *Zoekt*, *ripgrep*).
+2. **🌳 Structural & AST Parsing**: Abstract Syntax Tree queries that understand programming language grammar, symbol hierarchies, definitions, and references (e.g., *Tree-sitter*, *ast-grep*, *Semgrep*).
+3. **🧬 Dense Vector Embeddings & Codebase RAG**: Deep learning models converting code blocks and natural language into high-dimensional vector spaces for semantic similarity retrieval (e.g., *bloop*, *Khoj*, *Tabby*).
+4. **🤖 Agentic Context Engines**: Multi-step autonomous retrieval agents that generate dynamic repo maps, gather cross-file dependencies, and synthesize answers using frontier LLMs (e.g., *Cursor*, *Windsurf*, *OpenHands*, *Cline*, *Aider*).
 
 ---
 
-## Sector Overview & Market Dynamics
+## 📈 Sector Overview & Market Dynamics
 
 The global AI developer tools and intelligent code search market is currently estimated at **$7.5B to $9.5B** in 2025–2026, with long-term forecasts projecting over **$30B+ by 2030** (growing at an ~24% CAGR) driven by developer adoption of codebase RAG and agentic workflows.
 
@@ -48,7 +48,7 @@ The sector is **moderately fragmented but rapidly concentrating**: while hypersc
 
 ---
 
-## SaaS / Hosted AI Code Search Platforms
+## 🏢 SaaS / Hosted AI Code Search Platforms
 
 Commercial solutions providing turnkey multi-repository indexing, IDE extensions, enterprise compliance, and managed context engines. Sorted descending by company size (valuation / market capitalization):
 
@@ -67,7 +67,7 @@ Commercial solutions providing turnkey multi-repository indexing, IDE extensions
 
 ---
 
-## Open-Source GitHub Projects
+## 🐙 Open-Source GitHub Projects
 
 Curated open-source projects for self-hosted semantic code search, local codebase RAG, AST parsing, and code intelligence engines. Sorted in descending order by GitHub stars:
 
@@ -121,7 +121,7 @@ Curated open-source projects for self-hosted semantic code search, local codebas
 
 ---
 
-## Evaluation Matrix: How to Choose
+## ⚖️ Evaluation Matrix: How to Choose
 
 | Decision Factor | Recommended Architecture & Tools |
 | :--- | :--- |
@@ -133,7 +133,7 @@ Curated open-source projects for self-hosted semantic code search, local codebas
 
 ---
 
-## How to Contribute
+## 🤝 How to Contribute
 
 Contributions to this directory are warmly encouraged! To suggest additions or updates:
 
@@ -145,7 +145,7 @@ Contributions to this directory are warmly encouraged! To suggest additions or u
 
 ---
 
-## Disclaimer & License
+## 📜 Disclaimer & License
 
 - **Disclaimer**: This repository is a curated developer community resource and does not constitute formal procurement or compliance advice. Code search tools frequently index proprietary intellectual property; always consult your organization's security and legal guidelines before connecting external or hosted AI services to proprietary repositories.
 - **License**: Content is made available under the [MIT License](LICENSE).
