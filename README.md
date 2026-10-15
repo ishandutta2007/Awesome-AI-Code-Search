@@ -28,15 +28,17 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
-- [SaaS/Hosted Platforms](#saas-products)
-
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global AI developer tools and intelligent code search market is currently estimated at **$7.5B to $9.5B** in 2025–2026, with long-term forecasts projecting over **$30B+ by 2030** (growing at an ~24% CAGR) driven by developer adoption of codebase RAG and agentic workflows.
+
+The sector is **moderately fragmented but rapidly concentrating**: while hyperscaler incumbents (Microsoft/GitHub, Amazon, Google) command vast distribution through enterprise agreements and cloud lock-in, innovative high-velocity startups (Cursor/Anysphere, Codeium/Windsurf, Augment Code, Sourcegraph) have captured substantial developer mindshare with specialized low-latency indexing, multi-repo retrieval, and agentic IDE ergonomics—preventing an immediate winner-take-all consolidation.
 
 ## SaaS/Hosted Platforms
 
