@@ -1,38 +1,40 @@
-# Awesome-AI-Code-Search
+# Awesome AI Code Search 🔍 ⚡
 
-## Top AI Code Search Platforms Ecosystem
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Code-Search?style=social)](https://github.com/ishandutta2007/Awesome-AI-Code-Search/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Code-Search?style=social)](https://github.com/ishandutta2007/Awesome-AI-Code-Search/network/members)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-AI-Code-Search/pulls)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-AI-Code-Search)
+[![Last Updated](https://img.shields.io/badge/Updated-October%202026-blue.svg)](https://github.com/ishandutta2007/Awesome-AI-Code-Search)
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+> **Curated directory of AI Code Search engines, Semantic Code Search platforms, Codebase RAG (Retrieval-Augmented Generation) systems, and Code Intelligence developer tools.**
 
-*Focused on Semantic Code Search, AI-Powered Codebase Navigation, Context Retrieval & Developer Discovery*
+A comprehensive, battle-tested guide to modern developer tools for indexing, navigating, understanding, and retrieving code across massive multi-repository enterprise codebases and open-source ecosystems.
 
-**Last updated: October 2026**
-
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **AI Code Search**. These tools help developers find relevant code, understand large repositories, and retrieve precise context using semantic search, embeddings, and AI-assisted navigation—beyond simple text or regex matching.
-
-
-
-**Examples** include Sourcegraph, GitHub Copilot, Tabnine Enterprise, Codeium, Amazon Q Developer, Augment Code, JetBrains AI, Blackbox AI, Cursor, and Windsurf (the category leaders).
-
-
-
-**Open-source emphasis**: Semantic and AI-powered code search has solid open options. **bloop**, **Sourcegraph** (open core), **Zoekt**, and related projects enable self-hosted, privacy-friendly code discovery. This section is heavily expanded.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
+---
 
 ## Table of Contents
 
+- [Overview & Architecture Paradigms](#overview--architecture-paradigms)
 - [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saashosted-platforms)
+- [SaaS / Hosted AI Code Search Platforms](#saas--hosted-ai-code-search-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
+- [Evaluation Matrix: How to Choose](#evaluation-matrix-how-to-choose)
 - [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+- [Disclaimer & License](#disclaimer--license)
+
+---
+
+## Overview & Architecture Paradigms
+
+Traditional code search relied purely on regex patterns and string matching (e.g., `grep`). Modern **AI Code Search** operates across four interconnected technological pillars:
+
+1. **Trigram & Lexical Indexing**: Ultra-fast literal and regular-expression searches across gigabytes of source code in milliseconds (e.g., *Zoekt*, *ripgrep*).
+2. **Structural & AST Parsing**: Abstract Syntax Tree queries that understand programming language grammar, symbol hierarchies, definitions, and references (e.g., *Tree-sitter*, *ast-grep*, *Semgrep*).
+3. **Dense Vector Embeddings & Codebase RAG**: Deep learning models converting code blocks and natural language into high-dimensional vector spaces for semantic similarity retrieval (e.g., *bloop*, *Khoj*, *Tabby*).
+4. **Agentic Context Engines**: Multi-step autonomous retrieval agents that generate dynamic repo maps, gather cross-file dependencies, and synthesize answers using frontier LLMs (e.g., *Cursor*, *Windsurf*, *OpenHands*, *Cline*, *Aider*).
+
+---
 
 ## Sector Overview & Market Dynamics
 
@@ -40,7 +42,11 @@ The global AI developer tools and intelligent code search market is currently es
 
 The sector is **moderately fragmented but rapidly concentrating**: while hyperscaler incumbents (Microsoft/GitHub, Amazon, Google) command vast distribution through enterprise agreements and cloud lock-in, innovative high-velocity startups (Cursor/Anysphere, Codeium/Windsurf, Augment Code, Sourcegraph) have captured substantial developer mindshare with specialized low-latency indexing, multi-repo retrieval, and agentic IDE ergonomics—preventing an immediate winner-take-all consolidation.
 
-## SaaS/Hosted Platforms
+---
+
+## SaaS / Hosted AI Code Search Platforms
+
+Commercial solutions providing turnkey multi-repository indexing, IDE extensions, enterprise compliance, and managed context engines. Sorted descending by company size (valuation / market capitalization):
 
 | Product | Company Size (Valuation / Market Cap) | Starting Price | Free Tier / Trial Limit | Key AI Search & Code Intelligence Capabilities |
 | :--- | :--- | :--- | :--- | :--- |
@@ -55,11 +61,11 @@ The sector is **moderately fragmented but rapidly concentrating**: while hypersc
 | **[Tabnine Enterprise](https://www.tabnine.com/)** (Tabnine) | ~$350M Valuation ($55M+ funding) | $12/user/month (Pro billed annually; $15/user/month billed monthly) | **Free Forever Plan** (Basic): Short inline completions only (rate-limited, no private codebase indexing; 90-day Enterprise trial available) | Private air-gapped code search, zero data-retention guarantees, personalized codebase models, enterprise compliance |
 | **[Blackbox AI](https://www.blackbox.ai/)** (Blackbox AI) | ~$100M Valuation (~$10M ARR) | $10/month (Pro tier) | **Free Forever Plan**: Basic code search, standard code completions, and basic chat with rate limits | High-speed multi-language code search, snippet retrieval from millions of public repositories, browser and IDE integration |
 
-
+---
 
 ## Open-Source GitHub Projects
 
-Curated open-source projects for semantic code search, repository indexing, AST parsing, and codebase RAG, sorted in descending order by GitHub stars:
+Curated open-source projects for self-hosted semantic code search, local codebase RAG, AST parsing, and code intelligence engines. Sorted in descending order by GitHub stars:
 
 - **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** [![GitHub stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social&color=white)](https://github.com/All-Hands-AI/OpenHands/stargazers)  
   Open-source platform for autonomous software development agents with deep codebase exploration, semantic search, file mapping, and code editing capabilities.
@@ -109,34 +115,39 @@ Curated open-source projects for semantic code search, repository indexing, AST 
 - **[Zoekt](https://github.com/sourcegraph/zoekt)** [![GitHub stars](https://img.shields.io/github/stars/sourcegraph/zoekt?style=social&color=white)](https://github.com/sourcegraph/zoekt/stargazers)  
   Trigram-based indexed code search engine written in Go, acting as the high-throughput indexing and text-retrieval engine for Sourcegraph.
 
+---
 
+## Evaluation Matrix: How to Choose
 
-## How to Contribute
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Code search tools may index proprietary source. Deploy them with appropriate access controls and data-handling policies. This list is not security or compliance advice.
-
-
+| Decision Factor | Recommended Architecture & Tools |
+| :--- | :--- |
+| **Strict On-Prem / Air-Gapped Privacy** | Self-host **Tabby**, **Continue** with local models (Ollama/vLLM), or **Sourcegraph Self-Hosted**. |
+| **Monorepo / Multi-Repo Scale (10M+ LoC)** | **Sourcegraph**, **Zoekt**, or **OpenGrok** for sub-second indexed search across thousands of repositories. |
+| **Interactive In-IDE Development** | **Cursor**, **Windsurf**, or **GitHub Copilot** for low-friction autocomplete and `@codebase` chat. |
+| **Terminal & Autonomous Agent Workflows** | **Aider**, **Cline**, or **OpenHands** for terminal-first git branch operations and agentic refactoring. |
+| **Syntax-Aware Structural Refactoring** | **ast-grep** or **Semgrep** for tree-sitter AST queries that ignore whitespace and formatting variances. |
 
 ---
 
-**Made for developers, platform engineers, and open-source advocates.**
+## How to Contribute
 
-Let's keep code search intelligent, private, and as open as practical.
+Contributions to this directory are warmly encouraged! To suggest additions or updates:
+
+1. Fork this repository: `https://github.com/ishandutta2007/Awesome-AI-Code-Search`.
+2. Add your tool under either the SaaS table or the Open-Source list.
+3. Ensure all links are active, descriptions are objective, and any SaaS entries include exact pricing and free tier/trial limits.
+4. For open-source tools, include the GitHub star badge (`style=social&color=white`) linking to its stargazers page.
+5. Open a Pull Request with a clear description of why the tool belongs in this list.
+
+---
+
+## Disclaimer & License
+
+- **Disclaimer**: This repository is a curated developer community resource and does not constitute formal procurement or compliance advice. Code search tools frequently index proprietary intellectual property; always consult your organization's security and legal guidelines before connecting external or hosted AI services to proprietary repositories.
+- **License**: Content is made available under the [MIT License](LICENSE).
+
+---
+
+<div align="center">
+  <sub>Maintained for software engineers, platform architects, and open-source advocates. Star this repository to support community curation!</sub>
+</div>
