@@ -1,5 +1,9 @@
 # Awesome AI Code Search 🔍 ⚡
 
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome AI Code Search Banner" width="100%" />
+</p>
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Code-Search?style=social)](https://github.com/ishandutta2007/Awesome-AI-Code-Search/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Code-Search?style=social)](https://github.com/ishandutta2007/Awesome-AI-Code-Search/network/members)
